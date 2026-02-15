@@ -1,0 +1,27 @@
+<svg viewBox="0 0 600 800" xmlns="http://www.w3.org/2000/svg">
+  <path d="
+    M120 0
+    C180 120, 140 240, 200 360
+    C260 480, 220 620, 300 800
+    L420 800
+    C340 620, 380 480, 320 360
+    C260 240, 300 120, 260 0
+    Z"
+    fill="white"/>
+
+  <path d="
+    M200 0
+    C240 140, 220 260, 260 380
+    C300 500, 280 640, 340 800"
+    stroke="white"
+    stroke-width="60"
+    fill="none"/>
+
+  <path d="
+    M320 0
+    C360 160, 340 300, 380 420
+    C420 540, 400 660, 460 800"
+    stroke="white"
+    stroke-width="40"
+    fill="none"/>
+</svg>
